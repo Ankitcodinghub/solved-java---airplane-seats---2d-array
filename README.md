@@ -1,0 +1,1 @@
+# solved-java---airplane-seats---2d-array
